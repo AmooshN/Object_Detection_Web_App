@@ -1,12 +1,6 @@
 # Core dependencies to be installed first
-streamlit
-Pillow
-torch==2.4.1
-torchvision==0.19.1
-opencv-python
-matplotlib
-plotly
+git+https://github.com/facebookresearch/detectron2.git
 -r requirements2.txt
 
 # Finally install detectron2 from the GitHub repo
-#git+https://github.com/facebookresearch/detectron2.git
+#
