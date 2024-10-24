@@ -5,5 +5,4 @@ torchvision==0.19.1
 opencv-python
 matplotlib
 plotly
-setuptools
-file.txt
+numpy
