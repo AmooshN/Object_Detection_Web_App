@@ -3,4 +3,4 @@
 -r requirements2.txt
 
 # Finally install detectron2 from the GitHub repo
-#
+git+https://github.com/facebookresearch/detectron2.git
