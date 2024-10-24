@@ -5,5 +5,4 @@ torchvision==0.19.1
 opencv-python
 matplotlib
 plotly
--f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch2.0/index.html
-git+https://github.com/facebookresearch/detectron2.git
+-e .  # This will install detectron2 as a final step
